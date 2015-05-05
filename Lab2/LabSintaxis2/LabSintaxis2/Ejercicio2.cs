@@ -39,6 +39,7 @@ namespace LabSintaxis2
                         break;
                 }
             }
+            Console.Read();
         }
     }
 }

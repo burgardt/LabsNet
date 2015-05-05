@@ -38,6 +38,7 @@ namespace LabSintaxis2
                     Environment.Exit(0);
                 }
             }
+            Console.Read();
         }
         
     }

@@ -18,7 +18,7 @@ namespace LabSintaxis2
             for (int i = cantIteraciones; i > 0 ; i--){
                 Console.WriteLine("Posicion " + i + ": " + posiciones[i-1]);
             }
-            
+            Console.Read();
         }
     }
 }
