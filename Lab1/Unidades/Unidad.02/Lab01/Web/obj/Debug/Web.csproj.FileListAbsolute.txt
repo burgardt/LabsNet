@@ -1,0 +1,8 @@
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Web\bin\Web.dll.config
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Web\bin\Web.dll
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Web\bin\Web.pdb
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Web\bin\Util.dll
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Web\bin\Util.pdb
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Web\obj\Debug\Web.dll
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Web\obj\Debug\Web.pdb

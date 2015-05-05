@@ -1,0 +1,10 @@
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Windows\bin\Debug\Windows.exe.config
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Windows\bin\Debug\Windows.exe
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Windows\bin\Debug\Windows.pdb
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Windows\bin\Debug\Util.dll
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Windows\bin\Debug\Util.pdb
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Windows\obj\Debug\Windows.csprojResolveAssemblyReference.cache
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Windows\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Windows\obj\Debug\Windows.csproj.GenerateResource.Cache
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Windows\obj\Debug\Windows.exe
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Windows\obj\Debug\Windows.pdb
