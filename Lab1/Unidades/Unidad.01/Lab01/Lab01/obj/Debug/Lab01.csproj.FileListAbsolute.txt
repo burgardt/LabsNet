@@ -1,6 +1,0 @@
-C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.01\Lab01\Lab01\bin\Debug\Lab01.exe.config
-C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.01\Lab01\Lab01\bin\Debug\Lab01.exe
-C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.01\Lab01\Lab01\bin\Debug\Lab01.pdb
-C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.01\Lab01\Lab01\obj\Debug\Lab01.csprojResolveAssemblyReference.cache
-C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.01\Lab01\Lab01\obj\Debug\Lab01.exe
-C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.01\Lab01\Lab01\obj\Debug\Lab01.pdb

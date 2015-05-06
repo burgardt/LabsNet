@@ -1,8 +1,0 @@
-C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Consola\bin\Debug\Consola.exe.config
-C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Consola\bin\Debug\Consola.exe
-C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Consola\bin\Debug\Consola.pdb
-C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Consola\bin\Debug\Util.dll
-C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Consola\bin\Debug\Util.pdb
-C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
-C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Consola\obj\Debug\Consola.exe
-C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Proyectos\Unidades\Unidad.02\Lab01\Consola\obj\Debug\Consola.pdb
