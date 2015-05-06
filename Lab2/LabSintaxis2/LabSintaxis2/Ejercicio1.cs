@@ -10,6 +10,7 @@ namespace LabSintaxis2
     {
         public void solucion(){
             string inputTexto;
+            Console.Write("Ingrese un texto: ");
             inputTexto = Console.ReadLine();
             if (string.IsNullOrEmpty(inputTexto))
             {

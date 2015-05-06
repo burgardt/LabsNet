@@ -83,7 +83,7 @@ namespace LabSintaxis2
 
         public void primosGemelos() {
             int p, i, suma;
-            Console.Write("N: ");
+            Console.Write("N (cantidad de pares a calcular): ");
             int n = Convert.ToInt32(Console.ReadLine());
             suma = 0;
             i = 2;
@@ -116,6 +116,38 @@ namespace LabSintaxis2
                 }
             }
             return primo;
+        }
+
+        public void ingresoClave() {
+            int intentos = 0;
+            string clave = "";
+            while ((intentos < 4) & (clave != "CLAVE"))     //Cambiar 'CLAVE' por la verdadera clave.
+            {
+                if (intentos != 0) Console.WriteLine("Clave incorrecta.");
+                intentos = intentos + 1;
+                Console.Write("Introduzca clave: ");
+                clave = Console.ReadLine();
+            }
+            if ((intentos < 4) & (clave == "CLAVE")) 
+                Console.Write("Clave correcta.");
+            else
+                Environment.Exit(0);
+            Console.Read();
+        }
+
+        public void triangulo() {
+            Console.Write("Ingrese nro de filas: ");
+            int f = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine();
+            for (int i = 0; i <= f; i++) 
+            {
+                if (i % 2 == 0) {
+                    for (int w = 0; w <= (f-i)/2; w++) Console.Write(" ");
+                    for (int j = 0; j <= i; j++) Console.Write("*");
+                    Console.WriteLine();
+                }
+            }
+            Console.Read();
         }
     }
 }
