@@ -10,8 +10,9 @@ namespace Clases
     public class B : A
     {
 
-        public B() {
-            A insA = new A("Instancia de B");       //CONSULTAR ESTA PARTE
+        public B() : base("Instancia de B")
+        {
+            
         }
 
         public void M4() {

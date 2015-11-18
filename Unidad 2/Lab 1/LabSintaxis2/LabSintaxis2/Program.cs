@@ -10,6 +10,9 @@ namespace LabSintaxis2
     {
         static void Main(string[] args)
         {
+
+
+
             Ejercicio1 ejer1 = new Ejercicio1();
             Ejercicio2 ejer2 = new Ejercicio2();
             Ejercicio3 ejer3 = new Ejercicio3();
@@ -23,8 +26,16 @@ namespace LabSintaxis2
             switch (op1)
             {
                 case 1:
-                    ejer1.solucion();
-                    break;
+                    int[] a = new int[10];
+
+                    for (int i = 0; i < a.Length; i++) 
+                    {
+                        if (i % 2 == 0)
+                            Console.Write(i);
+                    }
+                    Console.Read();
+                        //ejer1.solucion();
+                        break;
                 case 2:
                     ejer2.solucion();
                     break;
